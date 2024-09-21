@@ -1,0 +1,54 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 50px auto 50px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    border-radius: 10px;
+    display: inline-block;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  nav {
+    background-color: #fba9a9;
+          padding: 20px 30px;
+          border-radius: 8px;
+          border: 2px solid #212121;
+            text-align: center;
+
+  }
+a{
+    padding: 10px 30px;
+    border-radius: 8px;
+    border: 2px solid #212121;
+      text-align: center;
+      color: #212121;
+}
+  
